@@ -2,8 +2,8 @@
 ## Files, Streams, Serialization, and Relational Database Engineering
 
 **Course Outcome:** CO5 – Java I/O (Streams, Buffering, Serialization) and JDBC (Statements, Transactions, Batches, Metadata)  
-**Student Name:** G SAI TEJA  
-**Register Number:** 192472137  
+**Student Name:**  K KARTHIK  
+**Register Number:** 192421443L  
 **GitHub Repository:** [Paste your repository link]  
 **Java Version:** JDK 8 or later  
 
