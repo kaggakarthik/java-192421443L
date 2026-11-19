@@ -1,8 +1,8 @@
 # CO5 Java Assignment 5 – Data Persistence Engineering
 
 **Course Outcome:** CO5 – Java I/O (Streams, Buffering, Serialization) and JDBC (Statements, Transactions, Batches, Metadata)  
-**Student Name:** G SAI TEJA  
-**Register Number:** 192472137  
+**Student Name:**  K KARTHIK 
+**Register Number:** 192421443L  
 **Java Version:** JDK 8 or later  
 **Repository Name:** `CSA09-192472137-Assignment5`
 
