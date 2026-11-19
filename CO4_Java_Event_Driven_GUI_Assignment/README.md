@@ -1,8 +1,8 @@
 # CO4 Java Assignment 4 – Event-Driven GUI Design
 
 **Course Outcome:** CO4 – Event-Driven GUI Design, AWT/Swing Components, Layouts, and JDBC Integration  
-**Student Name:** G SAI TEJA  
-**Register Number:** 192472137  
+**Student Name:** K KARTHIK 
+**Register Number:** 192421443L  
 **Java Version:** JDK 8 or later  
 **Repository Name:** `CSA09-192472137-Assignment4`
 
