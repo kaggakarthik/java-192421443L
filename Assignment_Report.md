@@ -1,8 +1,8 @@
 # CO2 Java Assignment 2 – Java Collections Framework Report
 ## Advanced Data Structures, Generics, and Algorithm Engineering
 
-**Student Name:** G SAI TEJA  
-**Register Number:** 192472137  
+**Student Name:** k KARTHIK   
+**Register Number:** 192421443L  
 **GitHub Repository:** [Paste your repository link]  
 **Java Version:** JDK 8 or later  
 
