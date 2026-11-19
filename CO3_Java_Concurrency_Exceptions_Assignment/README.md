@@ -1,8 +1,8 @@
 # CO3 Java Assignment 3 – Concurrency and Exception Handling
 
 **Course Outcome:** CO3 – Exception Handling and Multithreading  
-**Student A Name:** G SAI TEJA | **Register Number:** 192472137  
-**Student B Name:** G SAI TEJA | **Register Number:** 192472137  
+**Student A Name:** K KARTHIK | **Register Number:** 192421443L  
+**Student B Name:**  K KARTHIK  | **Register Number:** 192421443L 
 **Java Version:** JDK 8 or later  
 **Repository Name:** `CSA09-192472137-Assignment3`
 
